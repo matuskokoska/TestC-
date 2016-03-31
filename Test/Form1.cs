@@ -27,7 +27,7 @@ namespace Test
                 score++;
             }
 
-            if (radioButton4.Checked)
+            if (radioButton5.Checked)
             {
                 score++;
             }
